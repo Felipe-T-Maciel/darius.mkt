@@ -49,7 +49,7 @@ const Categories = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl sm:text-5xl font-bold text-transparent text-white bg-clip-text mb-4">
-            Não vendo curso e nem mentoria, te ensino <span  style={{'color':'#a53535'}}>DE GRAÇA</span > como fazer <p  style={{'color':'green'}}>R$40.000</p > por mês com:
+            Não vendo curso e nem mentoria, te ensino <span  style={{'color':'#e40c0c'}}>DE GRAÇA</span > como fazer <p  style={{'color':'#11c443'}}>R$40.000</p > por mês com:
           </h2>
           <p className="text-xl text-gray-400 max-w-2xl mx-auto">
             {/* Cada categoria foi desenvolvida para maximizar seus resultados em nichos específicos */}
